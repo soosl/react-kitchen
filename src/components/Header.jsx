@@ -12,7 +12,7 @@ const Header = () => {
                 <ul id='nav-mobile' className='right hide-on-med-and-down'>
                     <li>
                         <a
-                            href='https://github.com/soosl/react-shop'
+                            href='https://github.com/soosl/react-kitchen/'
                             target='_blank'
                             rel='noreferrer'
                         >
