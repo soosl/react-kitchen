@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-kitchen/static/css/main.b6ea9786.chunk.css",
-    "main.js": "/react-kitchen/static/js/main.cc543b45.chunk.js",
-    "main.js.map": "/react-kitchen/static/js/main.cc543b45.chunk.js.map",
+    "main.js": "/react-kitchen/static/js/main.a67fac39.chunk.js",
+    "main.js.map": "/react-kitchen/static/js/main.a67fac39.chunk.js.map",
     "runtime-main.js": "/react-kitchen/static/js/runtime-main.3975a726.js",
     "runtime-main.js.map": "/react-kitchen/static/js/runtime-main.3975a726.js.map",
     "static/js/2.dcd8d4aa.chunk.js": "/react-kitchen/static/js/2.dcd8d4aa.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3975a726.js",
     "static/js/2.dcd8d4aa.chunk.js",
     "static/css/main.b6ea9786.chunk.css",
-    "static/js/main.cc543b45.chunk.js"
+    "static/js/main.a67fac39.chunk.js"
   ]
 }
