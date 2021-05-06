@@ -57,3 +57,11 @@ iframe {
   width: 600px;
   height: 350px;
 }
+
+.progress .indeterminate {
+  background-color: #4e2d88;
+}
+
+.progress {
+  background-color: #4527a081;
+}
